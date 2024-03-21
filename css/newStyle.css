@@ -1,0 +1,12 @@
+.grand-titre{
+    color: blue;
+}
+.second-titre{
+    font-weight: 400;
+    margin-top: -20px;
+    margin-bottom: 30px;
+    
+}
+.conteneur{
+    background-color:rgba(0, 0, 0, 0.5);
+}
